@@ -11,4 +11,7 @@ Dépôt du projet traitant des méthodes de garantie de la confidentialité des 
 - [La gestion de la confidentialité dans les tableaux statistiques](https://www.insee.fr/fr/statistiques/fichier/2387517/sms-240614-nicolas.pdf)
 - [La gestion de la confidentialité pour les données individuelles](https://pnin-niger.org/web/toolkits/formation-info_anonymisation/Gestion%20et%20confidentialite_Maxime%20Bergeat_M201607.pdf)
 - [Monographs of official statistics Work session on statistical data confidentiality](https://ec.europa.eu/eurostat/web/products-statistical-books/-/ks-cr-03-004-1) Où j'avais identifié un article sur ROMM qui est une méthode d'anonymisation.
-
+- Thèse [Mesure de la vie privée et de l’utilité des données dans les bases de données statistiques](https://theses.hal.science/tel-02145208) Résumé [disponible ici](https://cvpip.wp.imt.fr/2017/12/07/une-nouvelle-metrique-le-discrimination-rate-pour-mesurer-le-degre-danonymisation-et-lutilite-dune-base-de-donnees/).
+- [Pseudonymiser des documents grâce à l’IA](https://guides.etalab.gouv.fr/pdf/guide-pseudonymisation.pdf)
+- DREES [Anonymisation : de la théorie à la pratique](https://drees.solidarites-sante.gouv.fr/sites/default/files/2020-11/Anonymisation%20-%20de%20la%20th%C3%A9orie%20%C3%A0%20la%20pratique%20-%20Nora%20Cuppens%20et%20Fr%C3%A9d%C3%A9ric%20Cuppens.pdf)
+- [L’anonymisation: Théorie et Pratique](https://egc2019.sciencesconf.org/data/eEGC_Nguyen.pdf) Benjamin NGUYEN
